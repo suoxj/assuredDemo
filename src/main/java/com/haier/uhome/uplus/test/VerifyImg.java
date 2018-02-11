@@ -5,5 +5,5 @@ package com.haier.uhome.uplus.test;
  */
 public class VerifyImg {
     private String name;
-
+    private String code;
 }
